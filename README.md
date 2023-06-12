@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**alvienzo720/alvienzo720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Alvin Mutebi**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvienzo720&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
