@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Alvin Mutebi**
+**Alvin Mutebi Software Engineer**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvienzo720&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
