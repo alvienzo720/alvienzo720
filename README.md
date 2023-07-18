@@ -18,7 +18,7 @@
 
 
 
-I am Python, Javascript, Typescript, Solidity, Rust Developer. Certified Amazon Cloud Practitioner adept in AWS, GCP,Azure, Docker, Kubernetes. Proficient in Django,Flask, Node.js, and Express.js.
+I am a Python, Javascript, Typescript, Solidity, and Rust Developer. Certified Amazon Cloud Practitioner adept in AWS, GCP, Azure, Docker, and Kubernetes. Proficient in Django, Flask, Node.js, and Express.js.
 
 
 
@@ -26,8 +26,8 @@ I am Python, Javascript, Typescript, Solidity, Rust Developer. Certified Amazon 
 
 - Front-end: HTML, CSS, JavaScript, React.
 - Back-end: Python, Typescript, Solidity, Rust, Django, Flask, Node.js.
-- Databases: MySQL, MongoDB, ,Postgress, SQLite
-- Version Control: Git, GitHub,and  GitLab
+- Databases: MySQL, MongoDB, Postgres and SQLite
+- Version Control: Git, GitHub, and  GitLab
 - CI/CD: Jenkins
 - Deployment: AWS, GCP, Azure, Heroku, Firebase, Vercel
 - Agile methodologies: Scrum, Kanban
