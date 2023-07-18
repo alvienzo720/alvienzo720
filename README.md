@@ -10,3 +10,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alvienzo720)](https://git.io/streak-stats)
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,typescript,solidity,html,css,git,docker,kubernetes)](https://skillicons.dev)
+
+<p align="center">
+  <!-- Wakatime Stats -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=alvinmutebi&layout=compact&theme=dracula" alt="alvienzo720" />
+</p>
