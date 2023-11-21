@@ -74,14 +74,6 @@ I am a Python, Javascript, Typescript, Solidity, and Rust Developer. Certified A
 
 
 
-## 📊 Wakatime Stats
-
-<p align="center">
-  <!-- Wakatime Stats -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=alvinmutebi&layout=compact&theme=dracula" alt="alvin" />
-</p>
-
-
 ## 🌍 Find Me Online
 
 - 📚 Blog: [Alvin Mutebi](https://medium.com/@alvinmutebi)
