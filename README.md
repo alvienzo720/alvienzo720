@@ -60,20 +60,6 @@ I am a Python, Javascript, Typescript, Solidity, and Rust Developer. Certified A
 </p>
 
 
-
-
-
-## 📈 GitHub Stats
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvienzo720&show_icons=true&theme=dracula&count_private=true" alt="alvin" />
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvienzo720&layout=compact&theme=dracula" alt="alvin" />
-</p>
-
-
-
 ## 🌍 Find Me Online
 
 - 📚 Blog: [Alvin Mutebi](https://medium.com/@alvinmutebi)
